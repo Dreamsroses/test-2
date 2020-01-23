@@ -1,0 +1,19 @@
+
+#titulo-id{
+  color: green;
+  display: inline-block;
+}
+
+.titulo{
+  color: blue;
+  color: red;
+}
+
+.size{
+  font-size: 4rem;
+}
+
+.parrafo{
+  width: 40%;
+  display: inline-block;
+}
